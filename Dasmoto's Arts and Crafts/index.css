@@ -1,0 +1,26 @@
+html {font-family:helvetica;}
+
+.main-heading {background-image: url("https://goo.gl/kTphHP");
+    font-size:100px;
+    font-weight:bold;
+    color:khaki;
+    text-align: center;}
+
+.brushes {font-size: 32px;
+          font-weight: bold;
+          color: white;
+          background-color: mediumspringgreen;
+        }
+.frame {background-color: lightcoral;
+        color:white;
+        font-weight: bold;
+        font-size: 32px;  }
+
+.paint {color: white;
+        background-color: skyblue;
+        font-weight: bold;
+        font-size: 32px;}
+
+#creator {text-align: right;
+          font-family: cursive;
+          }
